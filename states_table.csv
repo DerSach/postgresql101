@@ -1,0 +1,61 @@
+,state_acc,state_name,id
+0,NY,New York,1
+1,CA,California,2
+2,north america,north america,3
+3,MA,Massachusetts,4
+4,NJ,New Jersey,5
+5,PA,Pennsylvania,6
+6,WA,Washington,7
+7,TX,Texas,8
+8,IL,Illinois,9
+9,FL,Florida,10
+10,OR,Oregon,11
+11,NC,North Carolina,12
+12,CO,Colorado,13
+13,VA,Virginia,14
+14,europe,europe,15
+15,CT,Connecticut,16
+16,MI,Michigan,17
+17,OH,Ohio,18
+18,MD,Maryland,19
+19,MN,Minnesota,20
+20,GA,Georgia,21
+21,AZ,Arizona,22
+22,DC,District of Columbia,23
+23,WI,Wisconsin,24
+24,MO,Missouri,25
+25,KS,Kansas,26
+26,NM,New Mexico,27
+27,oceania,oceania,28
+28,ME,Maine,29
+29,VT,Vermont,30
+30,LA,Louisiana,31
+31,TN,Tennessee,32
+32,NH,New Hampshire,33
+33,SC,South Carolina,34
+34,KY,Kentucky,35
+35,RI,Rhode Island,36
+36,UT,Utah,37
+37,IN,Indiana,38
+38,NV,Nevada,39
+39,IA,Iowa,40
+40,ID,Idaho,41
+41,AL,Alabama,42
+42,OK,Oklahoma,43
+43,asia,asia,44
+44,AK,Alaska,45
+45,HI,Hawaii,46
+46,MT,Montana,47
+47,NE,Nebraska,48
+48,DE,Delaware,49
+49,WV,West Virginia,50
+50,MS,Mississippi,51
+51,AR,Arkansas,52
+52,WY,Wyoming,53
+53,SD,South Dakota,54
+54,ND,North Dakota,55
+55,AS,American Samoa,56
+56,VI,Virgin Islands,57
+57,PR,Puerto Rico,58
+58,GU,Guam,59
+59,MP,Northern Mariana Islands,60
